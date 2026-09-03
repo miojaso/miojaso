@@ -191,7 +191,7 @@ Sou [FORMAÇÃO PRINCIPAL] e [FORMAÇÃO COMPLEMENTAR]. Minha jornada une [3 COM
 
 ## 💻 Ambiente
 
-SO: [SEU OS] | Editor: [SEU EDITOR] | Versionamento: [GIT/OUTRO]
+SO: Windows 11 e Linux Mint | Editor: Visual Code Studio e InteliJ | Versionamento: GitHub
 
 ---
 
