@@ -25,7 +25,7 @@ https://github.com/
 
 # 👋 Olá, eu sou Marcos Vinicius 
 
-### [FRASE DE IMPACTO - O QUE VOCÊ TRANSFORMA]
+### HESITATION IS DEFEAT
 
 Atuo conectando **[PILAR 1], [PILAR 2], [PILAR 3]** para criar [RESULTADO TANGÍVEL] e impulsionar [CONTEXTO].
 
